@@ -1,0 +1,11 @@
+frmMain = 18, 266, 668, 676, C, 14, 117, 556, 443, C
+History = 110, 110, 565, 586, C
+frmAbout = 92, 85, 518, 561, C, 44, 44, 573, 584, C
+frmDisclaimer = 88, 88, 599, 564, C, 44, 44, 492, 520, C
+frmResults = 198, 198, 640, 674, C, 176, 176, 618, 652, C
+modRegistry = 0, 0, 0, 0, C
+modStartup = 110, 110, 621, 586, Z
+modStringOps = 0, 0, 0, 0, C
+modWebFunctions = 0, 0, 0, 0, C
+modWinProc = 0, 0, 0, 0, C
+modCommonProgramFunctions = 0, 0, 0, 0, C
