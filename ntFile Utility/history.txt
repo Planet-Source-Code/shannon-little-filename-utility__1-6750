@@ -1,0 +1,41 @@
+Attribute VB_Name = "History"
+Sub Data()
+
+ntFileUtility
+'Current Version = 1.0
+
+Program History
+---------------
+
+'v1.0
+-------
+3/10/00 - Added a new tab, Replace, it will allow you to replace strings in
+            a filename with other strings
+            Finished the Replace tab and added Drag&Drop functionality for the
+            path name to do the operations on
+            Released version 1.0
+2/19/00 - Finished Renaming Extension section. It is now has its error-checking.
+            Starting on Creation/Duplication section
+            I deleted the duplication tab because I just realized how useless it was
+2/12/00 - Picked up working on this since the I have some free time now.
+            Fully finished the CapAfter first letter and added much better error
+            handling.
+1/30/00 - After a nice long break from this program I decided to finish it.
+            Only the file duplication/renaming routines need to be written.
+12/30/99 - This program has just started to be created
+
+
+Known Errors
+------------
+
+1) Closing the program while it is still processing causes it to hang
+    Current Solution: Hit cancel before you close
+
+
+Features To Add
+---------------
+
+None yet
+
+
+End Sub
